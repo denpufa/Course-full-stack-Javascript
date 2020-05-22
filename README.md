@@ -1,1 +1,2 @@
-# Course-full-stack-Javascript
+#chapter one 
+  fundamentals from js 
